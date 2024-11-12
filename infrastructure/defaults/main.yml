@@ -1,0 +1,3 @@
+deployment_path: "~/dw-panda-Infrastructure"
+git_repository: "https://github.com/AzozowskY/dw-panda-Infrastructure"
+git_branch: "main"
